@@ -17,7 +17,7 @@ Im Rahmen des Moduls Grafische Datenverarbeitung 2 habe ich als Abschlussprojekt
 
 ### Installtionsschritte
 
-- Repository klonen (https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- Repository klonen (https://git.ai.fh-erfurt.de/di1846ho/GDV2-Mandelbrot-Variation)
 - In Visual Studio 2019 öffnen und Debug ausführen
 
 ### Struktur
@@ -27,3 +27,9 @@ Im Ordner /project befindet sich die .sln
 Die cpp Datei befindet sich in /project/example
 
 Die fx Datei befindet sich in /data/shader/
+
+## Verwendete Tutorials
+
+https://iquilezles.org/articles/distancefractals/
+https://www.shadertoy.com/view/4ddSWf
+https://www.shadertoy.com/view/4tt3Dn
