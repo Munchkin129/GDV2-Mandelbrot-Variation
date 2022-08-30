@@ -31,5 +31,7 @@ Die fx Datei befindet sich in /data/shader/
 ## Verwendete Tutorials
 
 https://iquilezles.org/articles/distancefractals/
+
 https://www.shadertoy.com/view/4ddSWf
+
 https://www.shadertoy.com/view/4tt3Dn
