@@ -1,0 +1,2 @@
+G:\Studium\Grafische Datenverarbeitung\Marlene Julia Set\gdv2-julia-set\projects\build\win32\example\Debug\example_debug.exe
+G:\Studium\Grafische Datenverarbeitung\Dirk Mandelbrot Variante\GDV2-Mandelbrot Variation\projects\build\win32\example\Debug\example_debug.exe

@@ -1,0 +1,6 @@
+﻿  mandelbrot_variation.cpp
+G:\Studium\Grafische Datenverarbeitung\Dirk Mandelbrot Variante\GDV2-Mandelbrot Variation\projects\example\mandelbrot_variation.cpp(265,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+G:\Studium\Grafische Datenverarbeitung\Dirk Mandelbrot Variante\GDV2-Mandelbrot Variation\projects\example\mandelbrot_variation.cpp(265,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  example.vcxproj -> G:\Studium\Grafische Datenverarbeitung\Dirk Mandelbrot Variante\GDV2-Mandelbrot Variation\projects\build\win32\example\Debug\example_debug.exe
+  ..\build\win32\example\Debug\example_debug.exe
+          1 Datei(en) kopiert.
